@@ -13,3 +13,16 @@ https://www.pentaho.com/blog/4-steps-machine-learning-pentaho <BR>
 
 # Mark Hall Blog
 http://markahall.blogspot.com
+
+# Machine Learning Group 
+http://www.cs.waikato.ac.nz/ml/
+
+# University of Waikato MOOC: Data Mining with Weka Part 1
+https://www.youtube.com/watch?v=xX57xPI5I34
+
+# Handling Large Data Sets with Weka: A Look at Hadoop and Predictive Models
+https://www.youtube.com/watch?v=04por7YgCfA
+
+# Data Mining with Weka: Trailer
+https://www.youtube.com/watch?v=LcHw2ph6bss
+
