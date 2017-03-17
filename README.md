@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=04por7YgCfA
 # Data Mining with Weka: Trailer
 https://www.youtube.com/watch?v=LcHw2ph6bss
 
+# USING THE WEKA SCORING AND FORECASTING PLUGIN IN PENTAHO DATA INTEGRATION WEKA PLUGINS FOR PDI: SCORING - FORECASTING
+http://www.know.bi/blog/article/weka-plugins-for-pdi-scoring-forecasting
