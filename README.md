@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=gYIlKUP2hk0 <BR>
 # 4 Steps to Machine Learning with Pentaho
 https://www.pentaho.com/blog/4-steps-machine-learning-pentaho <BR>
 
+# Mark Hall Blog
+http://markahall.blogspot.com
