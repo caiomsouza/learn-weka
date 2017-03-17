@@ -1,6 +1,5 @@
-# learnweka
-Learn Weka
+# Learn Weka
 
 # Data Mining with Weka
-https://weka.waikato.ac.nz/dataminingwithweka/preview
-https://www.futurelearn.com/courses/data-mining-with-weka
+https://weka.waikato.ac.nz/dataminingwithweka/preview <BR>
+https://www.futurelearn.com/courses/data-mining-with-weka <BR>
